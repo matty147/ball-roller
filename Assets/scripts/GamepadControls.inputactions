@@ -1,0 +1,52 @@
+{
+    "name": "GamepadControls",
+    "maps": [
+        {
+            "name": "Gamepad",
+            "id": "edf71a96-d56a-46f6-8131-9a9320c4be5f",
+            "actions": [
+                {
+                    "name": "Joystickl",
+                    "type": "Value",
+                    "id": "96c5961b-82fd-45c8-93a3-38c94bbe01ee",
+                    "expectedControlType": "Stick",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Joystickr",
+                    "type": "Value",
+                    "id": "d97f5be2-a87e-4e11-9b33-07aade227d47",
+                    "expectedControlType": "Stick",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d5571c20-8d66-4f4e-8e98-5dcfea2b9cb7",
+                    "path": "<Gamepad>/leftStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Joystickl",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1443acae-fb2c-42d1-888c-22c4bf9bb200",
+                    "path": "<Gamepad>/rightStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Joystickr",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
