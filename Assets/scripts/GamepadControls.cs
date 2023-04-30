@@ -1,4 +1,4 @@
-// GENERATED AUTOMATICALLY FROM 'Assets/scripst/GamepadControls.inputactions'
+// GENERATED AUTOMATICALLY FROM 'Assets/scripts/GamepadControls.inputactions'
 
 using System;
 using System.Collections;
